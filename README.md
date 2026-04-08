@@ -24,10 +24,24 @@ Indice:
 
 
 ## Documentación de los diseños implementados
-    * Archivos Ejercicio #1
-    [Ejercicio_1.v](Ejercicio_1.v)
-    
+  * Archivos Primer Ejercicio.
+  
+  Entonces el primer archivo es la logica del circuito como tal la descripcion de hardware del ejercicio, y el segundo su respectivo TestBench.
 
+  [Ejercicio_1.v](./Ejercicio_1.v)
+
+  [Ejercicio_1_tb.v](./Ejercicio_1_tb.v)
+
+
+* Archivos Segundo Ejercicio.
+
+Aca, el primer archivo es el mismo del ejercicio 1 que es necesario para este tambien ya que es el que establece la logica o la operacion, el segundo es donde se describe el funcionamiento del 7 segmentos y el tercer archivo es el TestBench de todo el ejercicio.
+
+[Ejercicio_1_Segunda_P.v](./Ejercicio_1_Segunda_P.v)
+
+[Ejercicio_2.v](./Ejercicio_2.v)
+
+[Ejercicio_2_tb.v](./Ejercicio_2_tb.v)
 
 ## Simulaciones 
 
