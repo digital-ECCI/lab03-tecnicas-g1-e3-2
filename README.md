@@ -24,6 +24,10 @@ Indice:
 
 
 ## Documentación de los diseños implementados
+    * Archivos Ejercicio #1
+    [Ejercicio_1.v](Ejercicio_1.v)
+    
+
 
 ## Simulaciones 
 
